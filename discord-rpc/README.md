@@ -1,0 +1,1 @@
+put include and lib folders here from a static 32-bit build of discord-rpc
